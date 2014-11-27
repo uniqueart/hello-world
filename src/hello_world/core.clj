@@ -2,6 +2,6 @@
   (:gen-class))
 
 (defn -main
-  "I don't do a whole lot ... yet."
+  "А фиг знает что это такое."
   [& args]
   (println "Hello, World!"))
